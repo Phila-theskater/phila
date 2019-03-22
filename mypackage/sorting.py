@@ -4,7 +4,7 @@ def bubble_sort(alist):
 
 def merge_sort(alist):
     return alist.sort()
-def quick_Sort(alist):
+def quick_sort(alist):
    return alist.sort()
 
 
