@@ -1,4 +1,4 @@
-m_array(array):
+def sum_array(array):
 
      '''Return sum of all items in array'''
     n = array
